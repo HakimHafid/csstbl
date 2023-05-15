@@ -1,0 +1,97 @@
+.batmicky {
+  width: 300px;
+  height: 200px;
+  border-radius: 5px;
+  margin: 50px 50px 50px 50px;
+  background-color: #191919;
+  overflow: hidden;
+  box-shadow: 5px 5px 10px 10px #aaaaaa;
+}
+.shape1 {
+  position: absolute;
+  width: 180px;
+  height: 70px;
+  background-color: #f2ad43;
+  margin-top: 60px;
+  margin-left: 55px;
+}
+.shape2 {
+  position: absolute;
+  background-color: white;
+  width: 55px;
+  height: 50px;
+  margin-top: 40px;
+  margin-left: 115px;
+  border-radius: 10px;
+  background-color: #191919;
+}
+.shape3 {
+  position: absolute;
+  width: 20px;
+  background-color: #f2ad43;
+  height: 25px;
+  margin-top: 70px;
+  margin-left: 132px;
+  border-radius: 5px;
+}
+.shape4 {
+  position: absolute;
+  background-color: #f2ad43;
+  width: 10px;
+  height: 10px;
+  margin-top: 65px;
+  margin-left: 128px;
+  border-radius: 5px;
+}
+.shape5 {
+  position: absolute;
+  background-color: #f2ad43;
+  width: 10px;
+  height: 10px;
+  margin-top: 65px;
+  margin-left: 146px;
+  border-radius: 5px;
+}
+.shape6 {
+  position: absolute;
+  background-color: #191919;
+  width: 90px;
+  height: 80px;
+  margin-top: 65px;
+  margin-left: 5px;
+  border-radius: 500px;
+  transform: rotate(90deg);
+}
+.shape7 {
+  position: relative;
+  background-color: #191919;
+  width: 110px;
+  height: 115px;
+  margin-top: 110px;
+  margin-left: 46px;
+  border-radius: 55px;
+  transform: rotate(-70deg);
+  overflow: hidden;
+}
+.shape8 {
+  position: absolute;
+  background-color: #191919;
+  width: 90px;
+  height: 80px;
+  margin-top: -160px;
+  margin-left: 190px;
+  border-radius: 50px;
+  transform: rotate(-90deg);
+}
+.shape9 {
+  position: relative;
+  background-color: #191919;
+  width: 110px;
+  height: 115px;
+  margin-top: -115px;
+  margin-left: 130px;
+  border-radius: 55px;
+  transform: rotate(70deg);
+  overflow: hidden;
+  z-index: 3;
+}

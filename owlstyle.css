@@ -1,0 +1,147 @@
+.owl {
+  width: 300px;
+  height: 200px;
+  border-radius: 5px;
+  margin: 50px 50px 50px 50px;
+  background-color: #191919;
+  margin-left: -350px;
+  box-shadow: 5px 5px 10px 10px #aaaaaa;
+}
+.owl1 {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  background-color: #f2ad43;
+  margin-left: -200px;
+  margin-top: -200px;
+  border-radius: 50px;
+  z-index: 2;
+}
+.owl2 {
+  position: absolute;
+  width: 66px;
+  height: 65px;
+  background-color: #000000;
+  margin-left: -190px;
+  margin-top: -185px;
+  border-radius: 50px;
+  z-index: 3;
+}
+.owl3 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  background-color: #f2ad43;
+  margin-left: -160px;
+  margin-top: -200px;
+  z-index: 2;
+}
+.owl4 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  background-color: #f2ad43;
+  margin-left: -170px;
+  margin-top: -165px;
+  border-radius: 50px;
+  z-index: 3;
+}
+.owl5 {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background-color: #000000;
+  margin-left: -163px;
+  margin-top: -159px;
+  border-radius: 10px;
+  z-index: 4;
+}
+.owl6 {
+  position: absolute;
+  width: 25px;
+  height: 15px;
+  background-color: #000000;
+  margin-left: -170px;
+  margin-top: -152px;
+  z-index: 5;
+}
+.owl7 {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  background-color: #f2ad43;
+  margin-left: -280px;
+  margin-top: -200px;
+  border-radius: 50px;
+  z-index: 1;
+}
+.owl8 {
+  position: absolute;
+  width: 66px;
+  height: 65px;
+  background-color: #000000;
+
+  margin-left: -268px;
+  margin-top: -185px;
+  border-radius: 50px;
+  z-index: 2;
+}
+.owl9 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  background-color: #f2ad43;
+  margin-left: -280px;
+  margin-top: -200px;
+  z-index: 1;
+}
+.owl10 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  background-color: #f2ad43;
+
+  margin-left: -250px;
+  margin-top: -165px;
+  border-radius: 50px;
+  z-index: 3;
+}
+.owl11 {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background-color: #000000;
+  margin-left: -243px;
+  margin-top: -159px;
+  border-radius: 10px;
+  z-index: 4;
+}
+.owl12 {
+  position: absolute;
+  width: 25px;
+  height: 15px;
+  background-color: #000000;
+  margin-left: -250px;
+  margin-top: -152px;
+  z-index: 5;
+}
+.owl13 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: #000000;
+  margin-left: -206px;
+  margin-top: -203px;
+  border-radius: 50px;
+  z-index: 1;
+}
+.owl14 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  background-color: #f2ad43;
+  margin-left: -230px;
+  margin-top: -150px;
+  transform: rotate(45deg);
+  z-index: 0;
+}
